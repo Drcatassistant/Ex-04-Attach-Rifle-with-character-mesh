@@ -1,5 +1,5 @@
 # Ex-04-Attach Rifle with character mesh and implementation bullet spawn from Rifle 
-# Experiment: Attaching Rifle to Character Mesh and Implementing Bullet Spawn from Rifle
+
 
 ## Aim
 To attach a rifle to a character's skeletal mesh and implement the functionality for bullets to spawn from the rifle's muzzle when fired.
